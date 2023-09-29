@@ -1,0 +1,43 @@
+h1 {
+font-size: 60px; /* la taille du texte*/
+text-decoration: underline; /* surligne le texte*/
+margin-bottom: 350px; 
+color: antiquewhite;  /* la couleur du texte*/
+text-align: center; /* la position du texte*/
+
+}
+
+h2 {
+
+text-decoration: underline;  /* surligne le texte*/
+color:antiquewhite; /* la couleur du texte*/
+
+
+
+}
+
+
+body {
+ background-image: url("../../images/fond_red_dead2.jpg"); 
+background-color: black;  /* la couleur du fond*/
+ /* la position du fond*/
+background-position: center;  /* la position du fond*/
+background-position: top;  /* la position du fond*/
+background-repeat: no-repeat;
+
+}
+
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 30%;
+
+}
+
+h4{
+
+font-size: 15px; /* la taille du texte*/
+color: antiquewhite; /* la couleur du texte*/
+
+}
